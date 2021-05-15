@@ -1,0 +1,11 @@
+html {
+	background-color: #1c1c1c;
+}
+
+#m1 {
+	position: static;
+	position-top: 10%;
+	transform: translate(50%);
+	width: 50%;
+	height: 50%;
+}
