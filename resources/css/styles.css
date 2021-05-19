@@ -1,5 +1,6 @@
 html {
 	background-color: #1c1c1c;
+	overflow-y: hidden;
 }
 
 #m1 {
